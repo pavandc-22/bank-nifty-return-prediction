@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary matplotlib and cache dirs
+.matplotlib_tmp/
+.ipynb_checkpoints/
+.pytest_cache/
+checkpoints/
+
+# Environments
+env/
+venv/
+ENV/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
