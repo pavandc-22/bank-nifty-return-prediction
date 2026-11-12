@@ -1,0 +1,6 @@
+Model,Simplicity,Transparency,Efficacy,Training_Time_Sec,Directional_Accuracy_Pct
+XGBoost,"High (Clean scikit-learn API, minimal boilerplate)","High (Native feature importances, tree split gain/weight)","High (Sub-second training, optimal gradient boosting)",0.5792746543884277,48.534201954397396
+Keras,"Moderate (Requires scaling, layer wiring, callbacks)",Low (Deep black-box neural representations),"Moderate (High expressiveness, moderate GPU/CPU compute)",5.41736626625061,52.11726384364821
+FastAI,"Moderate-High (1Cycle policy, automated embedding layers)","Low-Moderate (Neural embeddings, difficult feature attribution)","Moderate (Fast 1Cycle convergence, PyTorch backend)",4.778205394744873,49.8371335504886
+TabNet,"Moderate (Custom TabNet hyperparams: n_d, n_a, gamma)",High (Sparse attention masks reveal feature selection),"Moderate (Iterative sequential attention steps, compute-intensive)",21.576948404312134,45.60260586319218
+PyTorch Lightning,"Complex (Structured LightningModule, Trainer loops, Callbacks)","Low (Deep MLP/Torchmetrics, black-box hidden state)","High (Industrial engineering, auto GPU/CPU scaling, checkpointing)",3.6817853450775146,54.071661237785015
