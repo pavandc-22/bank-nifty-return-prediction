@@ -133,13 +133,5 @@ jupyter notebook notebooks/Bank_Nifty_Return_Prediction.ipynb
 
 ---
 
-## 🎓 Viva & Presentation Preparation
-
-- **Presentation Slide Deck**: `outputs/Bank_Nifty_Presentation.pptx` (12 professional slides with embedded figures, tables, and architectural summaries).
-- **Viva Defense Guide**: `outputs/VIVA_PREPARATION_GUIDE.md` (Contains 25+ detailed questions on Efficient Market Hypothesis, Stationarity, Jarque-Bera fat tails, Huber loss mathematical formulation, 1Cycle policy, TabNet attention masks, and options trading implementation).
-- **Formal Research Report**: `outputs/BANK_NIFTY_RESEARCH_REPORT.md`.
-
----
-
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
